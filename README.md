@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/she-loves-like-a-storm/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for She Loves Like a Storm](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/she-loves-like-a-storm/) |
+| **Get License** | [Secure Licensing Rights for She Loves Like a Storm](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/she-loves-like-a-storm/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the thunder rolling right beneath your skin
+> The kind of midnight magic where the wild begins
+> You pull me closer, letting all the rain pour down
+> She loves like a storm, tearing up this town
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
